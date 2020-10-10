@@ -1,4 +1,4 @@
-# React App - House Rent
+# Listing page
 
 ## Getting started
 1. Run `npm install` to install the necessary dependencies
